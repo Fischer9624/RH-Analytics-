@@ -1,5 +1,5 @@
-#📊 Projet RH Analytics – SQL (PostgreSQL)
-##👤 Contexte du projet
+📊 Projet RH Analytics – SQL (PostgreSQL)
+👤 Contexte du projet
 Ce projet simule une mission réelle de Data Analyst SQL au sein de l’entreprise fictive DataLendo, pour le compte du service Ressources Humaines (RH).
 L’objectif est d’exploiter des données RH afin de fournir des indicateurs clés, des analyses de performance, et des insights décisionnels utiles à la direction RH.
 Ce projet est conçu pour démontrer mes compétences en :
@@ -66,7 +66,7 @@ Afin de rendre les données exploitables pour l’analyse RH, plusieurs colonnes
 ○	Élevée (> 80)
 Ces transformations permettent une analyse temporelle, comparative et stratégique.
 ________________________________________
-##📊 Analyses réalisées (questions business)
+📊 Analyses réalisées (questions business)
 Les analyses couvrent notamment :
 ●	Effectif actuel
 ●	Turnover global et par département
@@ -92,7 +92,7 @@ Toutes les analyses sont réalisées via des requêtes SQL documentées, sans ou
 ●	Rétention par cohorte
 Ces indicateurs sont ceux utilisés par les Directions RH et Finance pour orienter leurs décisions.
 
-##🧠 Insights & recommandations RH
+🧠 Insights & recommandations RH
 À partir des analyses, plusieurs recommandations peuvent être formulées :
 ●	Mettre en place des plans de rétention pour les employés à forte ancienneté
 ●	Auditer les départements à turnover élevé
@@ -101,7 +101,7 @@ Ces indicateurs sont ceux utilisés par les Directions RH et Finance pour orient
 ●	Améliorer l’onboarding des nouvelles cohortes
 
 👨‍💻 Auteur
-Aristide  Ngoma
+Aristide Gildas Ngoma
 Data Analyst | SQL | Python | Excel
 
 
