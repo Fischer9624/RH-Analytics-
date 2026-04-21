@@ -101,7 +101,7 @@ Ces indicateurs sont ceux utilisés par les Directions RH et Finance pour orient
 ●	Améliorer l’onboarding des nouvelles cohortes
 
 👨‍💻 Auteur
-Aristide Gildas Ngoma
+Aristide Gildas Ngoma Mbambi
 Data Analyst | SQL | Python | Excel
 
 
